@@ -35,8 +35,8 @@ Ich habe die meisten Sprites beendet muss jetzt nur noch sicherstellen das die M
 Ich konnte das testen recht schnell aufsetzen habe aber sehr viel mühe damit die Rituale auftauchen zu lassen im Menü. Nach einiger Zeit mühe wurde ich es müde und begann stattdessen an einem anderen Projekt zu arbeiten.
 
 ## Planung 28.08.2026
-- [ ] Rituale zum funktionieren bringen
-- [ ] Rituale testen Elector Line
+- [x] Rituale zum funktionieren bringen
+- [x] Rituale testen Elector Line
 - [ ] Rituale testen Engineer Line
 
 ## Reflexion
