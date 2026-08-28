@@ -1,7 +1,7 @@
 # Lernperiode-5.md
 
 Name: Mateo Röthenmund
-14.08 - 08.09.2026
+14.08 - 18.09.2026
 
 ## Grob-Planung
 ### Noten
@@ -38,3 +38,11 @@ Ich konnte das testen recht schnell aufsetzen habe aber sehr viel mühe damit di
 - [ ] Rituale zum funktionieren bringen
 - [ ] Rituale testen Elector Line
 - [ ] Rituale testen Engineer Line
+
+## Reflexion
+Ich brachte die Rituale dazu aufzutauchen und für die ersten Paar Level von beiden auch dazu zu funktionieren. Die Mastery Rituale funktionieren aber noch nicht.
+
+## Planung 04.09.2026
+- [ ] Mastery Rituale fixen
+- [ ] Die höheren Rituale testen
+- [ ] Balance Testing
