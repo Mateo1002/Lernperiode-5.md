@@ -1,6 +1,7 @@
 # Lernperiode-5.md
 
 Name: Mateo Röthenmund
+
 14.08 - 18.09.2026
 
 ## Grob-Planung
@@ -46,3 +47,5 @@ Ich brachte die Rituale dazu aufzutauchen und für die ersten Paar Level von bei
 - [ ] Mastery Rituale fixen
 - [ ] Die höheren Rituale testen
 - [ ] Balance Testing
+
+## Reflexion
