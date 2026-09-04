@@ -2,7 +2,7 @@
 
 Name: Mateo Röthenmund
 
-14.08 - 18.09.2026
+- Zeitraum: 14.08.2026 bis 18.09.26
 
 ## Grob-Planung
 ### Noten
