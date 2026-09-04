@@ -44,8 +44,16 @@ Ich konnte das testen recht schnell aufsetzen habe aber sehr viel mühe damit di
 Ich brachte die Rituale dazu aufzutauchen und für die ersten Paar Level von beiden auch dazu zu funktionieren. Die Mastery Rituale funktionieren aber noch nicht.
 
 ## Planung 04.09.2026
-- [ ] Mastery Rituale fixen
-- [ ] Die höheren Rituale testen
+- [x] Mastery Rituale fixen
+- [x] Die höheren Rituale testen
 - [ ] Balance Testing
+
+## Reflexion
+Die Mastery Rituale waren recht schnell gefixt da ich schnell realisierte was sie dazu brachte sich wie normale Rituale zu verhalten. Alle anderen Rituale gehen auch fehlerfrei.
+
+## Planung 11.09.2026
+- [ ] Balance Testing
+- [ ] Publishing to Steam Workshop
+- [ ] Neues Projekt suchen
 
 ## Reflexion
