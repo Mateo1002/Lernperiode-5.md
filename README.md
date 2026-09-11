@@ -52,8 +52,14 @@ Ich brachte die Rituale dazu aufzutauchen und für die ersten Paar Level von bei
 Die Mastery Rituale waren recht schnell gefixt da ich schnell realisierte was sie dazu brachte sich wie normale Rituale zu verhalten. Alle anderen Rituale gehen auch fehlerfrei.
 
 ## Planung 11.09.2026
-- [ ] Balance Testing
-- [ ] Publishing to Steam Workshop
+- [x] Balance Testing
+- [x] Publishing to Steam Workshop
 - [ ] Neues Projekt suchen
 
 ## Reflexion
+Die Mod zu publishen war sehr einfach, ich konnte auch mit dem letzten Balancen einige Bugs reparieren. Das Arbeiten selbst ging mir sehr leicht. Ein neues Projekt zu suchen fällt mir noch schwer aber ich habe schon einige Ideen.
+
+## Planung 18.09.2026
+- [ ] Mich für ein Projekt entscheiden
+- [ ] Eine Anforderungsanalyse für dieses Projekt schreiben
+- [ ] Machbarkeit des Projektes testen
