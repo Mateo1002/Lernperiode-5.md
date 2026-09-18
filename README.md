@@ -60,6 +60,9 @@ Die Mastery Rituale waren recht schnell gefixt da ich schnell realisierte was si
 Die Mod zu publishen war sehr einfach, ich konnte auch mit dem letzten Balancen einige Bugs reparieren. Das Arbeiten selbst ging mir sehr leicht. Ein neues Projekt zu suchen fällt mir noch schwer aber ich habe schon einige Ideen.
 
 ## Planung 18.09.2026
+- [ ] Bug Fixing
+- [ ] Balance Updates
+- [ ] Push to Steam
 - [ ] Mich für ein Projekt entscheiden
 - [ ] Eine Anforderungsanalyse für dieses Projekt schreiben
 - [ ] Machbarkeit des Projektes testen
