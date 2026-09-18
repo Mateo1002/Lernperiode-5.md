@@ -60,9 +60,15 @@ Die Mastery Rituale waren recht schnell gefixt da ich schnell realisierte was si
 Die Mod zu publishen war sehr einfach, ich konnte auch mit dem letzten Balancen einige Bugs reparieren. Das Arbeiten selbst ging mir sehr leicht. Ein neues Projekt zu suchen fällt mir noch schwer aber ich habe schon einige Ideen.
 
 ## Planung 18.09.2026
-- [ ] Bug Fixing
-- [ ] Balance Updates
-- [ ] Push to Steam
+- [x] Bug Fixing
+- [x] Balance Updates
+- [x] Push to Steam
 - [ ] Mich für ein Projekt entscheiden
 - [ ] Eine Anforderungsanalyse für dieses Projekt schreiben
 - [ ] Machbarkeit des Projektes testen
+
+## Reflexion
+Die Updates gingen sehr gut doch ich konnte mich noch nicht für ein Projekt entscheiden da ich nicht wusste wie ich meine Ideen vom letzten Mal weiterführen sollte.
+
+## Reflexion Lenrperiode
+Zu Beginn der Lernperiode ging meine Arbeit am damaligen Projekt sehr zögerlich voran. Doch etwa in der späteren Hälfte fand ich den Faden wieder und konnte es recht schnell abschliessen und veröffentlichen. Weitergehend in die nächste Lernperiode werde ich aufs Feedback der Community achtgeben und meine Mod updaten, aber dies sollte nicht der Hauptpunkt sein. In der ersten Lektion der nächsten Lernperiode muss ich mich dann definitiv für ein Projekt entscheiden.
